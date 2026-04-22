@@ -2,7 +2,7 @@
 
 Ferramenta web para geração de declarações de **Nada Consta** (situação financeira regular) do SENAI Departamento Regional do Ceará.
 
-🔗 **Acesse online:** [https://SEU-USUARIO.github.io/gerador-nada-consta](https://SEU-USUARIO.github.io/gerador-nada-consta)
+🔗 **Acesse online:** [Gerador de Nada Consta — SENAI CE](https://ycsilva-dev.github.io/Gerador-de-Nada-Consta/))
 
 ---
 
